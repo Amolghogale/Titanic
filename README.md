@@ -6,5 +6,5 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 
 In this challenge, we ask you to complete the analysis of what sorts of people were likely to survive. In particular, we ask you to apply the tools of machine learning to predict which passengers survived the tragedy.
 
-Practice Skills
-This prediction is done using R. 
+Practice Skills:
+This prediction is done by using R. 
